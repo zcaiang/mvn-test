@@ -6,7 +6,7 @@
   <groupId>org.example</groupId>
   <artifactId>mvn-test</artifactId>
   <packaging>pom</packaging>
-  <version>y</version>
+  <version>1.1-SNAPSHOT</version>
   <modules>
     <module>common-lib</module>
     <module>server</module>
@@ -27,7 +27,7 @@
     <connection>scm:git:https://github.com/zcaiang/mvn-test.git</connection>
     <developerConnection>scm:git:https://github.com/zcaiang/mvn-test.git</developerConnection>
     <url>https://github.com/zcaiang/mvn-test</url>
-    <tag>y</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
 
